@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shoeb Islam Shaon</h1>
 <h3 align="center">Fresh graduate in Computer Science from BRAC University</h3>
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76118e21e6a528df4d0206ed8738a71685959c1fd984&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
